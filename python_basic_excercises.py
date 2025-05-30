@@ -23,4 +23,11 @@
 #print(tupla)
 
 # 7. File extension extractor
-filename = input('Ingrese el nombre de un archivo: ')
+#filename = input('Ingrese el nombre de un archivo: ')
+#extension = filename.split(".")
+#print("La extensión del archivo es: ", extension[-1])
+
+# 8. First and last colors
+#color_list = ["red","green","white","black"]
+#print(color_list[0])
+#print(color_list[-1])
