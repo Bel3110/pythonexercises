@@ -25,9 +25,21 @@
 # 7. File extension extractor
 #filename = input('Ingrese el nombre de un archivo: ')
 #extension = filename.split(".")
-#print("La extensión del archivo es: ", extension[-1])
+#print("La extension del archivo es: ", extension[-1])
 
 # 8. First and last colors
 #color_list = ["red","green","white","black"]
 #print(color_list[0])
 #print(color_list[-1])
+
+# 9. Exam schedule formatter
+#fecha = (11,12,2014)
+#print("EL periodo de examenes comienza desde el %i / %i / %i" % fecha)
+#print("El periodo de examenes comienza el ", fecha[0], "/", fecha[1], "/", fecha[2])
+
+# 10. Number expansion calculator
+#n = int(input("INgrese un numero entero: "))
+#print(n + (n*10+n) + (n*100+n*10+n))
+
+# 11. Function documentation printer
+
