@@ -42,4 +42,14 @@
 #print(n + (n*10+n) + (n*100+n*10+n))
 
 # 11. Function documentation printer
+# Print the docstring (documentation) of the 'abs' function
+#print(abs.__doc__)
 
+# 12. Calendar
+#import calendar
+#y = int(input("Ingrese un año: "))
+#m = int(input("Ingrese un mes: "))
+#print(calendar.month(y,m))
+
+# 
+# 13. Multi-Line here document
